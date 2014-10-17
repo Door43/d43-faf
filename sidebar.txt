@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[faf:home|Door43 (faf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-faf|d43-faf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-faf/archive/master.zip|d43-faf.zip]]
+
+**Recent Changes**
+{{changes>ns = faf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/faf|Ethnologue data]]
+
